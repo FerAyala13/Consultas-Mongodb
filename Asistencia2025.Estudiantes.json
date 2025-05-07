@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "681992ea39142b6f3bb5f899"
+  },
+  "Nombre": "Gabriela Ayala",
+  "Carnet": "am9201332018",
+  "Carrera": "Ingenieria en sistemas",
+  "Presente": true
+},
+{
+  "_id": {
+    "$oid": "681996a139142b6f3bb5f89a"
+  },
+  "Nombre": "William Caballero",
+  "Carnet": "co2435672019",
+  "Carrera": "Ingenieria en Sistemas",
+  "Presente": false
+},
+{
+  "_id": {
+    "$oid": "681996a139142b6f3bb5f89b"
+  },
+  "Nombre": "Mariel Ayala",
+  "Carnet": "ah3245672019",
+  "Carrera": "Ingenieria en Sistemas",
+  "Presente": true
+}]
